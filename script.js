@@ -17,3 +17,11 @@ for(var i=0; i<document.getElementsByClassName('item').length; i++){
 
 
 
+
+
+
+// Mettre en place une mécanique permettant dediter et modifier votre tache
+
+
+
+

@@ -44,3 +44,26 @@ body{
 h1{
   font-size: 40px;
 }
+
+#formulaire{
+ display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+.form-title{
+   display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.5em;
+}
+
+.row{
+  display: flex;
+  margin-top: 2rem;
+  margin-bottom: 2rem;
+}
+
+.newTaskForm{
+  display: flex;
+}
