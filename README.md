@@ -13,6 +13,8 @@ Manipuler le DOM pour pouvoir supprimer ou ajouter des tâches à faire.
 - Titre
 - Catégorie
 - Date
+
+
 👉 À la validation de ce formulaire, ajoutez l’élément dans le DOM.
 
 ## 4 - BONUS : MODIFICATION
